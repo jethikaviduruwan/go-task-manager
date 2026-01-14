@@ -136,3 +136,4 @@ func init() {
 	addCmd.Flags().StringVarP(&flagPriority, "priority", "p", "medium", "Task priority (low|medium|high)")
 	addCmd.Flags().StringVarP(&flagTags, "tags", "t", "", "Comma-separated tags")
 }
+// v1-0
