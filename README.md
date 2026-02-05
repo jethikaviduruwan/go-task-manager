@@ -46,3 +46,4 @@ taskman clear
 Tasks are stored in `~/.taskman/tasks.json` — portable and easy to back up.
 // v1-1
 // v4-0
+// v7-1
