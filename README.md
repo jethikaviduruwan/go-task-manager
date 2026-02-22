@@ -48,3 +48,4 @@ Tasks are stored in `~/.taskman/tasks.json` — portable and easy to back up.
 // v4-0
 // v7-1
 // v9-2
+// v12-0
