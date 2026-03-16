@@ -125,3 +125,4 @@ func (s *Store) Pending() []*Task {
 // v11-0
 // v14-0
 // v16-2
+// v18-1
